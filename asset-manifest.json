@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/morkel1/static/css/main.c8792358.chunk.css",
+    "main.js": "/morkel1/static/js/main.93d23f4a.chunk.js",
+    "main.js.map": "/morkel1/static/js/main.93d23f4a.chunk.js.map",
+    "runtime-main.js": "/morkel1/static/js/runtime-main.5b042f4e.js",
+    "runtime-main.js.map": "/morkel1/static/js/runtime-main.5b042f4e.js.map",
+    "static/js/2.ace1e06f.chunk.js": "/morkel1/static/js/2.ace1e06f.chunk.js",
+    "static/js/2.ace1e06f.chunk.js.map": "/morkel1/static/js/2.ace1e06f.chunk.js.map",
+    "static/js/3.ed50b587.chunk.js": "/morkel1/static/js/3.ed50b587.chunk.js",
+    "static/js/3.ed50b587.chunk.js.map": "/morkel1/static/js/3.ed50b587.chunk.js.map",
+    "index.html": "/morkel1/index.html",
+    "static/css/main.c8792358.chunk.css.map": "/morkel1/static/css/main.c8792358.chunk.css.map",
+    "static/js/2.ace1e06f.chunk.js.LICENSE.txt": "/morkel1/static/js/2.ace1e06f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b042f4e.js",
+    "static/js/2.ace1e06f.chunk.js",
+    "static/css/main.c8792358.chunk.css",
+    "static/js/main.93d23f4a.chunk.js"
+  ]
+}
